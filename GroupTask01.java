@@ -25,7 +25,7 @@ class Circle implements Shape{
 
     @Override
     public void calculatePerimeter() {
-        System.out.println("The perimeter of the circle with a radius of "+radius+" is "+Math.PI+(2*radius));
+        System.out.println("The perimeter of the circle with a radius of "+radius+" is "+Math.PI*(2*radius));
     }
 }
 

@@ -1,6 +1,6 @@
 public class GroupTask01Tester {
     public static void main(String[] args) {
-        Circle circle = new Circle(2);
+        Circle circle = new Circle(8);
         circle.calculatePerimeter();
         circle.calculateArea();
 
